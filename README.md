@@ -1,7 +1,6 @@
 ![](/src/richbuilds_logo.png)
-![](/src/view_logo.png)
 
-# Richbuilds/View
+# 🎑 View
 
 ## A Simple PHP Template Engine
 
